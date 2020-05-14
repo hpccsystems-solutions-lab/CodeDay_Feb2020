@@ -1,5 +1,6 @@
 ﻿EXPORT getMusic := MODULE
 
+// Define music layout
 	EXPORT Spotify_Layout := RECORD
 		INTEGER ID;
 		STRING  Title;
@@ -18,7 +19,8 @@
 		DECIMAL Popularity;
 	END;
 	
+	//Create dataset
 	EXPORT SpotifyDS := DATASET('~spotify::top::2000::csv', 
-													Spotify_Layout, 
-													CSV(HEADING(1)));
+                                    Spotify_Layout, 
+                                    CSV(HEADING(1)));
 END;
