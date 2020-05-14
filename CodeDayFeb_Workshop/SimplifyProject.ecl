@@ -1,3 +1,5 @@
+IMPORT getMusic;
+
 Skim_Layout := RECORD
 		INTEGER ID;
 		STRING  Title;
@@ -17,4 +19,5 @@ END;
 
 result := PROJECT( getMusic.SpotifyDS,
                         xform(LEFT));
+						
 OUTPUT(CHOOSEN(result, 200), NAMED('skim_Project'));

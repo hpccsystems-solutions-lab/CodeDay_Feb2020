@@ -1,4 +1,4 @@
-
+IMPORT getMusic;
 
 get2020 := (getMusic.SpotifyDS (year = 1998));
 

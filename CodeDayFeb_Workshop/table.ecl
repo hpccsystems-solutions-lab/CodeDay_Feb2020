@@ -1,5 +1,4 @@
-
-
+IMPORT getMusic;
 
 //Number of songs per artist for 2003
 

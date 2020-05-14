@@ -1,3 +1,4 @@
+IMPORT getMusic;
 
 //Count all records
 countAll := COUNT(getMusic.SpotifyDS);

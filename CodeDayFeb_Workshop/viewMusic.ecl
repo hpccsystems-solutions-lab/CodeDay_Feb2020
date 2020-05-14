@@ -1,3 +1,4 @@
+IMPORT getMusic;
 
 Spotify_Layout := RECORD
 	INTEGER ID;

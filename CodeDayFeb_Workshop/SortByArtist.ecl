@@ -1,3 +1,4 @@
+IMPORT getMusic;
 
 SortArtist := SORT(getMusic.SpotifyDS, artist);
 
