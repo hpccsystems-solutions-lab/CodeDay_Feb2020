@@ -1,4 +1,6 @@
-﻿EXPORT getMusic := MODULE
+﻿// Don't run this, MODULEs aren't runnable
+
+EXPORT getMusic := MODULE
 
 // Define music layout
 	EXPORT Spotify_Layout := RECORD
@@ -23,4 +25,5 @@
 	EXPORT SpotifyDS := DATASET('~spotify::top::2000::csv', 
                                     Spotify_Layout, 
                                     CSV(HEADING(1)));
+
 END;
