@@ -1,5 +1,5 @@
 CodeDay Workshop
-https://ide.hpccsystems.com/workspaces/share/3af4af55-5338-4bee-86f5-ef1cbe3bf70f
+https://ide.hpccsystems.com/workspaces/share/a7269c83-6722-44ce-be1c-8ff38a8301b2
 
 ECL training containing six short videos
 https://www.youtube.com/watch?time_continue=192&v=Lk78BCCtM-0
