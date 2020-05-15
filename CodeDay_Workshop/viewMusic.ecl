@@ -1,4 +1,3 @@
-IMPORT getMusic;
 
 //Defining the music layout
 Spotify_Layout := RECORD
