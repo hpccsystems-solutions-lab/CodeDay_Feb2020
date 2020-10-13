@@ -1,6 +1,6 @@
 IMPORT getMusic;
 
-//filter the dataset to capture any song produced in year 1998
+//Filter the dataset to capture any song produced in year 1998
 get2020 := (getMusic.SpotifyDS (year = 1998));
 
 //Only output the first 200 records

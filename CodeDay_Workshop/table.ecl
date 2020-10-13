@@ -1,3 +1,8 @@
+/*
+Calculating total songs per Artist.
+Using TABLE 
+*/
+
 IMPORT getMusic;
 
 //Number of songs per artist for 2003
@@ -13,6 +18,7 @@ count_songs := TABLE(
                        Artist
                        );
 
-//printing the first 200 records of the result 		
+//Printing the first 200 records of the result      
 OUTPUT(CHOOSEN(count_songs, 200), NAMED('countSongs'));
+
 

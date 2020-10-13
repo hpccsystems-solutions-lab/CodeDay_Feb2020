@@ -1,8 +1,13 @@
-﻿// Don't run this, MODULEs aren't runnable
+﻿/*
+MODULES are NOT runnable/executable.
+Please don't run this code.
+
+In this code, record layout for Spotify dataset is created, then dataset is build.
+*/
 
 EXPORT getMusic := MODULE
 
-// Define music layout
+// Define music layout/record definition
 	EXPORT Spotify_Layout := RECORD
 		INTEGER ID;
 		STRING  Title;
@@ -22,8 +27,10 @@ EXPORT getMusic := MODULE
 	END;
 	
 	//Create dataset
-	EXPORT SpotifyDS := DATASET('~spotify::top::2000::csv', 
-                                    Spotify_Layout, 
-                                    CSV(HEADING(1)));
+	EXPORT SpotifyDS := DATASET(
+									'~spotify::music::data::top::2000::csv', //File name
+                                    Spotify_Layout, //Dataset record definition
+                                    CSV(HEADING(1)) //File formart. In this case row #1 of file is the file header
+									);
 
 END;

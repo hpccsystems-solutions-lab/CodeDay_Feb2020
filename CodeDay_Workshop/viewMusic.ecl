@@ -19,7 +19,7 @@ Spotify_Layout := RECORD
 END;
 
 //Creat dataset from CSV file
-SpotifyDS := DATASET('~spotify::top::2000::csv', 
+SpotifyDS := DATASET('~spotify::music::data::top::2000::csv', 
                          Spotify_Layout, 
                          CSV(HEADING(1)));
 

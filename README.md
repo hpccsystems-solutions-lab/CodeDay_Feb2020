@@ -1,22 +1,25 @@
-CodeDay Workshop
-https://ide.hpccsystems.com/workspaces/share/a0485885-04c5-4bb4-9965-ace176ba5dbe
+# CodeDay - Big Data Challenge
 
+HPCC Systems Solutions Lab is proud to collaborate with [CodeDay Org](https://www.codeday.org/) on Big Data Challenge.
 
-ECL training containing six short videos
-https://www.youtube.com/watch?time_continue=192&v=Lk78BCCtM-0
+Through Big Data Challenge students are interduce to big data concept, they get familiar with ECL (Enterprise Control Language), our big data programming language, and get hands on practice.
+During challenge students are given sample ECL code and an opportunity to solve challenge questions ranges from entry to mid-level.
 
+# Challenge
 
-ECL cheat sheet
-https://github.com/hpccsystems-solutions-lab/CodeDay_May2020/blob/master/ECL_Cheat_Sheet.pdf
+For this challenge students will work with "Spotify Top 2000" songs.
+Please see [Spotify_DataDic](https://github.com/hpccsystems-solutions-lab/CodeDay_May2020.https://github.com/hpccsystems-solutions-lab/CodeDay_May2020.md) for file information.
 
+Sample code for the challenge can be found at [CodeDay Workshop](https://ide.hpccsystems.com/workspaces/share/a0485885-04c5-4bb4-9965-ace176ba5dbe)
 
-Cloud IDE Setup
-https://github.com/hpccsystems-solutions-lab/CodeDay_May2020/blob/master/CloudIDE-Setup.pdf
+# Resources
 
+- [LearnECL](https://hpccsystems-solutions-lab.github.io/) training and related hands on practices on [CloudIDE](https://ide.hpccsystems.com/workspaces/share/291d17d9-e5cb-4fac-83c2-ac5997c28a31)
 
-ECL document
-http://cdn.hpccsystems.com/releases/CE-Candidate-7.0.24/docs/EN_US/ECLLanguageReference_EN_US-7.0.24-1.pdf
+- [ECL cheat sheet](https://github.com/hpccsystems-solutions-lab/CodeDay_May2020/blob/master/ECL_Cheat_Sheet.pdf)
 
-Visualization document
-https://d2wulyp08c6njk.cloudfront.net/releases/CE-Candidate-7.6.2/docs/EN_US/VisualizingECL_EN_US-7.6.2-1.pdf
+- [Cloud IDE Setup](https://github.com/hpccsystems-solutions-lab/CodeDay_May2020/blob/master/CloudIDE-Setup.pdf)
 
+- Additional [ECL](http://cdn.hpccsystems.com/releases/CE-Candidate-7.0.24/docs/EN_US/ECLLanguageReference_EN_US-7.0.24-1.pdf) information
+
+- ECL [Visualization](https://d2wulyp08c6njk.cloudfront.net/releases/CE-Candidate-7.6.2/docs/EN_US/VisualizingECL_EN_US-7.6.2-1.pdf)
