@@ -2,14 +2,14 @@
 
 HPCC Systems Solutions Lab is proud to collaborate with [CodeDay Org](https://www.codeday.org/) on Big Data Challenge.
 
-Through the Big Data Challenge students are introduced to big data concepts, they become familiar with ECL (Enterprise Control Language our big data programming language), and they get hands-on practice. During the challenge, students are given sample ECL code and an opportunity to solve challenge questions ranging from easy to mid-level difficulty.
+Through the Big Data Challenge students are introduced to big data concepts, they become familiar with ECL (Enterprise Control Language) our big data programming language)=, and they get hands-on practice. During the challenge, students are given sample ECL code and an opportunity to solve challenge questions ranging from easy to mid-level difficulty.
 
 # Challenge
 
 For this challenge students will work with "Spotify Top 2000" songs.
 Please see [Spotify_DataDic](https://github.com/hpccsystems-solutions-lab/CodeDay_May2020.https://github.com/hpccsystems-solutions-lab/CodeDay_May2020.md) for file information.
 
-Sample code for the challenge can be found at [CodeDay Workshop](https://ide.hpccsystems.com/workspaces/share/a0485885-04c5-4bb4-9965-ace176ba5dbe)
+Data and initial code for the challenge can be found at [CodeDay Workshop](https://ide.hpccsystems.com/workspaces/share/a0485885-04c5-4bb4-9965-ace176ba5dbe)
 
 # Resources
 
